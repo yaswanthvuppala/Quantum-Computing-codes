@@ -5,3 +5,8 @@ L1.ipynb
 .venv/
 .claude/
 .agent/ 
+
+.venv-wsl/
+.env-wsl
+
+fashion-mnist_test.csv
